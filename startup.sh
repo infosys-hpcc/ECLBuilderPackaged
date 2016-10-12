@@ -1,0 +1,1 @@
+nohup java -cp eclbuilder-starter.jar org.infosys.eclbuilderstarter.Starter &
